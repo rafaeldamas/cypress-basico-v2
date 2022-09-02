@@ -8,8 +8,8 @@ Tabela de conteúdos
 <!--ts-->
    * [Sobre](#-Sobre-o-projeto)
    * [Como executar o projeto](#-como-executar-o-projeto)
-      * [Pre Requisitos](#user-content--pre-requisitos)
-      * [Passo a passo](#user-content--rodando-o-roftware)
+      * [Pré Requisitos](#user-content-pre-requisitos)
+      * [Passo a passo](#user-content-rodando-o-roftware)
 <!--te-->
 
 ## 💻 Sobre o projeto
